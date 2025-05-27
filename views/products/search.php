@@ -11,8 +11,7 @@
             <input type="text" id="searchCode" placeholder="Tìm kiếm...">
             <button onclick="searchCourse()" class="search-button" style="background-color: #2e43d1;">Tìm kiếm</button>
         </div>
-        <!-- Gắn Bootstrap 3 nếu chưa có -->
-
+ơD
 
 <div class="container" style="background-color: #fcf9f9; padding: 20px;">
     <div class="panel panel-default">
